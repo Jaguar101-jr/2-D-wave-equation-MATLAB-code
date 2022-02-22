@@ -1,12 +1,12 @@
-%% This code is written by HUSSEIN ABDUELHALEIM HUSSEIN MUHAMMED, B.Sc. UofK-Sudan,
+%% This code is written by HUSSEIN ABDUELHALEIM HUSSEIN MUHAMMED, BScH UofK-Sudan,
 %% now at UPC (China), August, 2021 as part of his master thesis's project.
 %% A Finite Difference Method program to solve/propagate the 2D constant-density,
 %% wave equation on a Cartesian mesh, wth 2D, 3D plots and a movie.
 %% The 2D Acoustic Wave Equation: Wtt = c^2 (Wxx + Wyy) + f(t).
 %% Please cite this code as: Hussein Abduelhaleim Hussein Muhammed (2022), Least-
-%% Squares Reverse-Time Migration in Pseudodepth Domain and Its Applications, 
+%% Squares ReverseTime Migration in Pseudodepth Domain and Its Application, 
 %% China University of Petroleum (East China), Master Thesis,
-%% School of Geosciences, Dept. of Geophysics Library press.
+%% School of Geosciences, Dept. of Geophysics. Library press.
 %% Thanks is to Dr. Haroon Stephen (UNLV-Las Vegas, USA) and Dr. Gao Liping (UPC
 %% Qingdao-China).
 
